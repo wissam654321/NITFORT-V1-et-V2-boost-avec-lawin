@@ -26,9 +26,9 @@ Node est requis
 <a href="https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi" download>Télécharger Node</a>
 
 Launcheur Nitfort
-<a download="">Téléchargé NITFORT</a>
+<a href="" download>Téléchargé NITFORT</a>
 
 Saison X requis (celle qui à était bidoullié)
-<a download="">T éléchargé la saison X</a>
+<a href="https://builds.rebootfn.org/10.31.zip" download>Téléchargé la saison X</a>
 
 Si il y a un Problème de téléchargement veullier me contacter.
