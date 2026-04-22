@@ -32,3 +32,5 @@ Saison X requis (celle qui à était bidoullié)
 <a href="https://builds.rebootfn.org/10.31.zip" download>Téléchargé la saison X</a>
 
 Si il y a un Problème de téléchargement veullier me contacter.
+
+mon serveur discord<a href="https://discord.gg/zdNagy7wNC">joindre</a>
