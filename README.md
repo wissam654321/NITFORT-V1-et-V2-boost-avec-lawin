@@ -23,8 +23,7 @@ Je ne c'est pas code du Java Script c'esr pour ça que j'ai besoin d'un Devellop
 #Nitfort Launcheur Téléchargé :
 
 Node est requis
-<a download="https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi">Télécharger Node</a>
-<a href="https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi" download>Télécharger</a>
+<a href="https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi" download>Télécharger Node</a>
 Launcheur Nitfort
 <a download="">Téléchargé NITFORT</a>
 
