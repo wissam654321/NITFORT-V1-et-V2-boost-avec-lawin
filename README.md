@@ -8,9 +8,9 @@ pour le téléchargé sur votre ordinateur écrivé npm
 npm run build sert à créé une version installable de mon application
 Des erreur de lancement sont possible je travailler dessus
 Merci à Lawin0129
-https://github.com/Lawin0129
+<a href="https://github.com/Lawin0129">sont github</a>
 Et au Contributeur et mainteneur PRO100KatYT
-https://github.com/PRO100KatYT
+<a href="https://github.com/PRO100KatYT">sont github</a>
 Néssité pas à me signaler si vous recontré un bug 
 bug possible :
 
