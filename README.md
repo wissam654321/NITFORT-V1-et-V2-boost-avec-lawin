@@ -33,4 +33,4 @@ Saison X requis (celle qui à était bidoullié)
 
 Si il y a un Problème de téléchargement veullier me contacter.
 
-mon serveur discord<a href="https://discord.gg/zdNagy7wNC">joindre</a>
+mon serveur discord<a href="https://discord.gg/zdNagy7wNC">joindre le serveur</a>
