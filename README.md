@@ -18,3 +18,17 @@ Bug de serveur de port qui est déjà utilisé :
 <img width="1475" height="759" alt="image" src="https://github.com/user-attachments/assets/17a30fba-48d6-4b15-b3c0-c85a2ff32710" />
 si quelqu'un voudrait m'aider pour le projet contacte moi sur ma chaîne :
 <a href ="https://www.youtube.com/@Noob_increvable">ici</a>
+Je ne c'est pas code du Java Script c'esr pour ça que j'ai besoin d'un Devellopeur
+
+#Nitfort Launcheur Téléchargé :
+
+Node est requis
+<a download="https://nodejs.org/dist/v24.15.0/node-v24.15.0-x64.msi">Télécharger Node</a>
+
+Launcheur Nitfort
+<a download="">Téléchargé NITFORT</a>
+
+Saison X requis (celle qui à était bidoullié)
+<a download="">T éléchargé la saison X</a>
+
+Si il y a un Problème de téléchargement veullier me contacter.
